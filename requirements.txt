@@ -1,0 +1,8 @@
+langgraph
+langchain-openai
+supabase
+psycopg2-binary
+streamlit
+pandas
+requests
+python-dotenv
